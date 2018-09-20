@@ -1,0 +1,2 @@
+Weighted Average is: 42.5
+Input Values provided are: [0.5, 3.0, 10.0, 70.0, 90.0, 80.0, 20.0]
